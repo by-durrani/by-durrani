@@ -2,7 +2,7 @@
 
 I am 21 years old developer from Pakistan, and I'm passionate about learning and crafting digital experiences.
 
-- Check out my [website] (https://single-page-portfolio-ochre.vercel.app/) to learn more about me.
+- Check out my [website](https://single-page-portfolio-ochre.vercel.app/) to learn more about me.
 
 ## 📦 Toolbox
 
@@ -24,5 +24,5 @@ I am 21 years old developer from Pakistan, and I'm passionate about learning and
 
 ## 📞 contact
 
-For a quick response, DM me on [LinkedIn][(https://www.linkedin.com/in/mirayaabrodi/](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247). 
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247). 
 
