@@ -22,6 +22,8 @@ I am 21 years old Software developer from Pakistan, and I'm passionate about lea
 
 **DevOps:** `Docker`
 
+**Cloud:** `Google Cloud`
+
 **Graphics:** `Illustrator` `Premiere Pro` `Figma`
 
 **Languages:** `Python` `JavaScript` `TypeScript` `SQL` `C` `R`
