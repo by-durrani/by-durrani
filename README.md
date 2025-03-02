@@ -2,7 +2,7 @@
 
 I am 22 years old Software developer from Pakistan, and I'm passionate about learning and crafting digital experiences.
 
-- Check out my [website](https://single-page-portfolio-ochre.vercel.app/) to learn more about me.
+- Check out my [website](https://knuggets.tech/) to learn more about me.
 
 ## 📦 Toolbox
 
