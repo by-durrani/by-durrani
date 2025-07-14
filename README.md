@@ -1,34 +1,92 @@
-## Hey, I am Abd Ur Rehman
+<h1 align="center">Hey there 👋, I'm Abd Ur Rehman</h1>
 
-I am 22 years old Software developer from Pakistan, and I'm passionate about learning and crafting digital experiences.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Builder+%7C+Learner;Crafting+Digital+Experiences+%F0%9F%92%BB;AI+%2B+Full-Stack+%2B+Cloud+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-- Check out my [website](https://knuggets.tech/) to learn more about me.
+<p align="center">
+  <a href="https://knuggets.tech/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Knuggets.tech-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-## 📦 Toolbox
+---
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Material-UI` `Framer-Motion` `shadcn ui` 
+### 👨‍💻 About Me
 
-**Mobile Development:** `React Native cli` `Expo` 
+- 🧠 22 y/o Software Developer from Pakistan  
+- 🚀 Passionate about building **products**, **AI tools**, and **developer-first systems**
+- 📚 Currently learning & working on:  
+  `AI Engineering` | `ML & Agents` | `System Design` | `RAG + LLMs` | `Freelancing & Monetization`
+- 🗂️ Organizing my journey in Notion and sharing it on [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/) and [Twitter](https://twitter.com/DurraniKnuggets)
+- ✨ Building an AI-integrated development starter system using **Next.js + Bun + Hono + tRPC + Drizzle + Google Cloud**
 
-**Desktop Application:** `Tkinter` `Electron` 
- 
-**Version Control:** `Git` `Github`
+---
 
-**Backend Development:** `Express.js` `REST` `Appwrite` `Flask` `trpc` `Bun.js` `Node.js` `Django`
+### 🧰 Toolbox
 
-**Data Science:** `Pandas` `Numpy` `Python` `Matplotlib` 
+#### 💻 Frontend  
+`React` `Next.js (App Router)` `TypeScript` `Tailwind CSS` `shadcn/ui` `Material-UI` `Framer Motion`
 
-**AI:** `ML` `Classifications`
+#### 📱 Mobile Development  
+`React Native (CLI & Expo)` `NativeWind` `AsyncStorage`
 
-**DevOps:** `Docker`
+#### 🖥️ Desktop  
+`Tkinter (Python)` `Electron`
 
-**Cloud:** `Google Cloud`
+#### ⚙️ Backend  
+`Node.js` `Express` `Flask` `Django` `tRPC` `REST` `Appwrite` `Bun.js` `Hono.js`
 
-**Graphics:** `Illustrator` `Premiere Pro` `Figma`
+#### 🧠 AI & Data  
+`Python` `NumPy` `Pandas` `Matplotlib`  
+`ML Models` `Classification` `Agents` `RAG Systems`
 
-**Languages:** `Python` `JavaScript` `TypeScript` `SQL` `C` `R`
+#### 🗄️ DevOps & Cloud  
+`Docker` `Google Cloud Platform (GCP)` `Cloud SQL` `CI/CD`
 
-## 📞 contact
+#### 🧠 Databases & ORMs  
+`SQL` `Drizzle ORM` `Firebase` `Appwrite DB`
 
-For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247).
+#### 🎨 Design & Media  
+`Figma` `Adobe Illustrator` `Premiere Pro`
 
+#### 🔤 Programming Languages  
+`JavaScript` `Python` `TypeScript` `SQL` `R` `C`
+
+#### 🔧 Tools & Workflow  
+`Git` `GitHub` `Notion` `Zed` `VS Code` `Postman`
+
+---
+
+### 🚀 Projects & Initiatives
+
+- 🧠 Building a **30-day AI + Dev Journal** (started July 1)  
+- 💻 Working on AI-Integrated Dev Starter & CLI for rapid SaaS MVPs  
+- 🪄 Experimenting with **LLM agents, RAG systems**, and automation tools  
+
+---
+
+### 🌱 Currently Learning
+
+- ⚡ AI Engineering & System Thinking  
+- 💡 Real-time data pipelines, full-stack product development  
+- 🛠️ tRPC, Drizzle, Bun, and Hono best practices  
+- 🌍 Freelancing via cold outreach, personal brand, and X (Twitter)  
+
+---
+
+### 📬 Let’s Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/)
+- 🌐 [Website](https://knuggets.tech/)
+- 📮 Email: contact via website or DM on LinkedIn
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=by-durrani&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=by-durrani&theme=radical&hide_border=true" alt="streak" />
+</p>
