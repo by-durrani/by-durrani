@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Abd Ur Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Software+Developer+%7C+Builder+%7C+Learner;Crafting+Digital+Experiences+%F0%9F%92%BB;AI+%2B+Full-Stack+%2B+Cloud+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Builder+%7C+Learner" />
 </p>
 
 <p align="center">
