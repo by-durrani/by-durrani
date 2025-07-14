@@ -57,7 +57,7 @@
 `JavaScript` `Python` `TypeScript` `SQL` `R` `C`
 
 #### 🔧 Tools & Workflow  
-`Git` `GitHub` `Notion` `Zed` `VS Code` `Postman`
+`Git` `GitHub` `Notion` `Zed` `VS Code` `Postman` `Cursor`
 
 ---
 
