@@ -48,7 +48,7 @@
 `Docker` `Google Cloud Platform (GCP)` `Cloud SQL` `CI/CD`
 
 #### 🧠 Databases & ORMs  
-`SQL` `Drizzle ORM` `Firebase` `Appwrite DB`
+`SQL` `MongoDB` `Postgresql` `Drizzle ORM` `Prisma ORM` `Firebase` `Appwrite DB`
 
 #### 🎨 Design & Media  
 `Figma` `Adobe Illustrator` `Premiere Pro`
