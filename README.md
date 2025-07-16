@@ -89,4 +89,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=by-durrani&show_icons=true&theme=radical&hide=issues&hide_border=true" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=by-durrani&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-durrani&layout=compact&theme=tokyonight" alt="streak" />
 </p>
