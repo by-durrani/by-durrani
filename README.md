@@ -29,7 +29,7 @@
 ### 🧰 Toolbox
 
 #### 💻 Frontend  
-`React` `Next.js (App Router + Pages Router)` `TypeScript` `Tailwind CSS` `shadcn/ui` `Material-UI` `Framer Motion` `SWR` `Zustand`
+`React` `Next.js (App Router + Pages Router)` `TypeScript` `Tailwind CSS` `shadcn/ui` `Material-UI` `Framer Motion` `SWR` `Zustand` `gsap`
 
 #### 📱 Mobile Development  
 `React Native (CLI & Expo)` `NativeWind` `AsyncStorage`
