@@ -20,7 +20,7 @@
 - 🧠 22 y/o Software Developer from Pakistan  
 - 🚀 Passionate about building **products**, **AI tools**, and **developer-first systems**
 - 📚 Currently learning & working on:  
-  `AI Engineering` | `ML & Agents` | `System Design` | `RAG + LLMs` | `Freelancing & Monetization`
+  `AI Engineering` | `ML & Agents` | `System Design` | `RAG + LLMs` 
 - 🗂️ Organizing my journey in Notion and sharing it on [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/) and [Twitter](https://twitter.com/DurraniKnuggets)
 - ✨ Building an AI-integrated development starter system using **Next.js + Bun + Hono + tRPC + Drizzle + Google Cloud**
 
