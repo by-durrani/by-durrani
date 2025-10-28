@@ -29,7 +29,7 @@
 ### 🧰 Toolbox
 
 #### 💻 Frontend  
-`React` `Next.js (App Router + Pages Router)` `TypeScript` `Tailwind CSS` `shadcn/ui` `Material-UI` `Framer Motion` `SWR` `Zustand` `gsap`
+`React` `Next.js 13+ (App Router + Pages Router)` `TypeScript` `Tailwind CSS` `shadcn/ui` `Material-UI` `Framer Motion` `SWR` `Zustand` `gsap`
 
 #### 📱 Mobile Development  
 `React Native (CLI & Expo)` `NativeWind` `AsyncStorage`
@@ -45,10 +45,10 @@
 `ML Models` `Classification` `Agents` `RAG Systems`
 
 #### 🗄️ DevOps & Cloud  
-`Docker` `Google Cloud Platform (GCP)` `Cloud SQL` `CI/CD`
+`Docker` `Google Cloud Platform (GCP)` `Cloud SQL` `CI/CD` `Kubernetes`
 
 #### 🧠 Databases & ORMs  
-`SQL` `MongoDB` `Postgresql` `Drizzle ORM` `Prisma ORM` `Firebase` `Appwrite DB`
+`MySQL` `MongoDB` `Postgresql` `Drizzle ORM` `Prisma ORM` `Firebase` `Appwrite DB`
 
 #### 🎨 Design & Media  
 `Figma` `Adobe Illustrator` `Premiere Pro`
@@ -57,14 +57,12 @@
 `JavaScript` `Python` `TypeScript` `SQL` `R` `C`
 
 #### 🔧 Tools & Workflow  
-`Git` `GitHub` `Notion` `Zed` `VS Code` `Postman` `Cursor`
+`Git` `GitHub` `Notion` `Zed` `VS Code` `Postman` `Cursor` `Shell` `Linux` `Codex cli`
 
 ---
 
 ### 🚀 Projects & Initiatives
 
-- 🧠 Building a **30-day AI + Dev Journal** (started July 1)  
-- 💻 Working on AI-Integrated Dev Starter & CLI for rapid SaaS MVPs  
 - 🪄 Experimenting with **LLM agents, RAG systems**, and automation tools  
 
 ---
@@ -73,8 +71,6 @@
 
 - ⚡ AI Engineering & System Thinking  
 - 💡 Real-time data pipelines, full-stack product development  
-- 🛠️ tRPC, Drizzle, Bun, and Hono best practices  
-- 🌍 Freelancing via cold outreach, personal brand, and X (Twitter)  
 
 ---
 
