@@ -77,7 +77,7 @@
 ### 📬 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/)
-- 🌐 [Website](https://knuggets.tech/)
+- 🌐 [Website](https://single-page-portfolio-ochre.vercel.app/)
 - 📮 Email: contact via website or DM on LinkedIn
 
 ---
