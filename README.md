@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://knuggets.tech/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Knuggets.tech-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://single-page-portfolio-ochre.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-by-durrani-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
