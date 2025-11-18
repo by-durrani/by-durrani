@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 22 y/o Software Developer from Pakistan  
+- 🧠 23 y/o Software Developer from Pakistan  
 - 🚀 Passionate about building **products**, **AI tools**, and **developer-first systems**
 - 📚 Currently learning & working on:  
   `AI Engineering` | `ML & Agents` | `System Design` | `RAG + LLMs` 
