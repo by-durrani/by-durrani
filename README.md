@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://single-page-portfolio-ochre.vercel.app/" target="_blank">
+  <a href="https://by-durrani.xyz/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-bydurrani-00bfff?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/" target="_blank">
