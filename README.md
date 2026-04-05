@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Abd Ur Rehman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Builder+%7C+Learner;Crafting+Digital+Experiences+%F0%9F%92%BB;AI+%2B+Full-Stack+%2B+Cloud+Enthusiast+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Builder+%7C+Entrepreneur;Crafting+Digital+%2B+Physical+Experiences+%F0%9F%92%BB;AI+%2B+Full-Stack+%2B+Cloud+Enthusiast+%E2%9C%A8" />
 </p>
 
 <p align="center">
@@ -17,8 +17,10 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 23 y/o Software Developer from Pakistan  
+- 🧠 23 y/o Software Developer & Builder from Pakistan  
+- 🏢 Founder of **Durrani Arts** — working on **custom signage, acrylic fabrication & branding solutions**, while building its digital presence  
 - 🚀 Passionate about building **products**, **AI tools**, and **developer-first systems**
+- 🔗 Bridging **physical business + software systems** (automation, workflows, digital experiences)
 - 📚 Currently learning & working on:  
   `AI Engineering` | `ML & Agents` | `System Design` | `RAG + LLMs` 
 - 🗂️ Organizing my journey in Notion and sharing it on [LinkedIn](https://www.linkedin.com/in/abd-ur-rehman-khan-555a50247/) and [Twitter](https://twitter.com/DurraniKnuggets)
@@ -64,6 +66,7 @@
 ### 🚀 Projects & Initiatives
 
 - 🪄 Experimenting with **LLM agents, RAG systems**, and automation tools  
+- 🏢 Scaling **Durrani Arts** with a focus on **digital transformation, branding systems, and online growth**
 
 ---
 
@@ -71,6 +74,7 @@
 
 - ⚡ AI Engineering & System Thinking  
 - 💡 Real-time data pipelines, full-stack product development  
+- 🏗️ Applying **software thinking to real-world business (Durrani Arts)**
 
 ---
 
